@@ -4,6 +4,8 @@
 
 This site uses Hacker theme for GitHub Pages.
 
+All markdown files must be placed in _siteContents. A new folder should be created for each repository. The index.md file contains the index of the documentation.
+
 *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
 
 ![Thumbnail of Hacker](thumbnail.png)

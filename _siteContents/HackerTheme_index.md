@@ -5,6 +5,7 @@ layout: default
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./HackerTheme_another-page.html).
+[back](./)
 
 There should be whitespace between paragraphs.
 
