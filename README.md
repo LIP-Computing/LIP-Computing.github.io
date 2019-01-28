@@ -8,6 +8,8 @@ All markdown files must be placed in docs. The index.md file in the root of this
 
 For each repository inside lip-computing organization create docs directory for github pages generate the project documentation. The link will be "https://lip-computing.github.io/project", where project must be replaced by repository name.
 
+To activate github pages on a project repository go to repository settings in github and change in github pages section the source folder. It also allows to choose a theme supported by github pages. More details review [configuring a publishing source for github pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/).
+
 
 *Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
 
