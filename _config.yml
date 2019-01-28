@@ -1,5 +1,5 @@
 title: LIP Computing
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "show_downloads:"
   LIP Computing documentation.
 show_downloads: true
 google_analytics:
