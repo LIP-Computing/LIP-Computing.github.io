@@ -1,7 +1,15 @@
 title: LIP Computing
 description: > # this means to ignore newlines until "show_downloads:"
   LIP Computing documentation.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
-source: ./_siteContents
+#logo:
+url: https://lip-computing.github.io
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+exclude:
+- .gitignore
+- .jekyll-cache
+- README.md
