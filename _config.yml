@@ -1,10 +1,10 @@
 title: LIP Computing
+logo: /assets/img/LIP-black-1000x677.png
 description: > # this means to ignore newlines until "show_downloads:"
   LIP Computing documentation.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-hacker
-#logo:
+theme: jekyll-theme-minimal
 url: https://lip-computing.github.io
 plugins:
   - jekyll-sitemap
